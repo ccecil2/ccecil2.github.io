@@ -1,1 +1,1 @@
-https://ccecil2.github.io/Resume.docx
+github.com/ccecil2/ccecil2.github.io/Resume.docx?raw=true
