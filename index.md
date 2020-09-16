@@ -1,1 +1,1 @@
-[Resume](github.com/ccecil2/ccecil2.github.io/Resume.docx?raw=true)
+[Resume](https://github.com/ccecil2/ccecil2.github.io/blob/master/Resume.docx?raw=true)
