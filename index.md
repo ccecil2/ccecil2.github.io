@@ -40,5 +40,5 @@ Solidworks Associate
 
 [Resume](https://github.com/ccecil2/ccecil2.github.io/blob/master/Resume.docx?raw=true)
 
-[CSE 4334 Assignment 1](https://htmlpreview.github.io/?https://github.com/ccecil2/ccecil2.github.io/blob/master/Cecil_01.html)
-[Download 4334 Assignment 1](https://htmlpreview.github.io/?https://github.com/ccecil2/ccecil2.github.io/blob/master/Cecil_01.ipynb?raw=true)
+[CSE 4334 Assignment 1](https://htmlpreview.github.io/?https://github.com/ccecil2/ccecil2.github.io/blob/master/Cecil_01.html)\n
+[Download 4334 Assignment 1](https://htmlpreview.github.io/?https://github.com/ccecil2/ccecil2.github.io/blob/master/Cecil_01.ipynb)
