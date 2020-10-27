@@ -42,4 +42,4 @@ Solidworks Associate
 
 [CSE 4334 Assignment 1](https://htmlpreview.github.io/?https://github.com/ccecil2/ccecil2.github.io/blob/master/Cecil_01.html)
 
-[Download 4334 Assignment 1](https://github.com/ccecil2/ccecil2.github.io/blob/master/Cecil_01.ipynb)
+[Download 4334 Assignment 1 from GitHub](https://github.com/ccecil2/ccecil2.github.io/blob/master/Cecil_01.ipynb?raw=true)
